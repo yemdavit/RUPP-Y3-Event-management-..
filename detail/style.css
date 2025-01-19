@@ -1,0 +1,1433 @@
+.detail,
+.detail * {
+  box-sizing: border-box;
+}
+
+.register-now a {
+  text-decoration: none;
+  color: inherit;
+}
+.detail {
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  overflow: hidden;
+}
+.frame-477 {
+  background: #c8c8c8;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 143px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-463 {
+  padding: 0px 20px 0px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-458 {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-456 {
+  display: flex;
+  flex-direction: column;
+  gap: 60px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-453 {
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 200px;
+  height: 250px;
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-454 {
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 200px;
+  height: 250px;
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-455 {
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 200px;
+  height: 250px;
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-457 {
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 550px;
+  height: 650px;
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.frame-476 {
+  display: flex;
+  flex-direction: column;
+  gap: 44px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 760px;
+  position: relative;
+}
+.frame-449 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 550px;
+  position: relative;
+}
+.frame-466 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.thursday-19-december-2024 {
+  color: #7c7c7c;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-464 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.full-stack-development-worshop {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-465 {
+  flex-shrink: 0;
+  width: 99px;
+  height: 20px;
+  position: relative;
+  overflow: hidden;
+}
+.learn-to-build-dynamic-web-applications-from-front-end-to-back-end-using-modern-tools-like-java-script-node-js-and-mongo-db-perfect-for-aspiring-developers {
+  color: #4d4d4d;
+  text-align: justified;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+}
+.frame-460 {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-459 {
+  background: #000000;
+  border-radius: 414px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  flex-shrink: 0;
+  width: 50px;
+  height: 50px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-461 {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  align-items: center;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.by {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-462 {
+  padding: 0px 5px 0px 5px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.sfvsdddddddddddddd {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-469 {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-324 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 30px;
+  position: relative;
+  overflow: visible;
+}
+.thu-19-dec-2024-07-30-am {
+  color: #7c7c7c;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  opacity: 0;
+  position: absolute;
+  left: 3px;
+  top: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-470 {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-311 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 30px;
+  height: 30px;
+  position: relative;
+}
+.group {
+  flex-shrink: 0;
+  width: 30px;
+  height: 30px;
+  position: relative;
+  overflow: visible;
+}
+.ckcc {
+  color: #7c7c7c;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  opacity: 0;
+  position: absolute;
+  left: 3px;
+  top: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-468 {
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 550px;
+  height: 44px;
+  position: relative;
+}
+.register-now {
+  color: #000000;
+  text-align: left;
+  font-family: "Poppins-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-483 {
+  padding: 78px 70px 78px 70px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 480px;
+  position: relative;
+}
+.what-is-lorem-ipsum-lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industry-s-standard-dummy-text-ever-since-the-1500-s-when-an-unknown-printer-took-a-galley-of-type-and-scrambled-it-to-make-a-type-specimen-book-it-has-survived-not-only-five-centuries-but-also-the-leap-into-electronic-typesetting-remaining-essentially-unchanged-it-was-popularised-in-the-1960-s-with-the-release-of-letraset-sheets-containing-lorem-ipsum-passages-and-more-recently-with-desktop-publishing-software-like-aldus-page-maker-including-versions-of-lorem-ipsum {
+  color: #ffffff;
+  text-align: justified;
+  text-transform: lowercase;
+  position: relative;
+  width: 1261px;
+}
+.what-is-lorem-ipsum-lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industry-s-standard-dummy-text-ever-since-the-1500-s-when-an-unknown-printer-took-a-galley-of-type-and-scrambled-it-to-make-a-type-specimen-book-it-has-survived-not-only-five-centuries-but-also-the-leap-into-electronic-typesetting-remaining-essentially-unchanged-it-was-popularised-in-the-1960-s-with-the-release-of-letraset-sheets-containing-lorem-ipsum-passages-and-more-recently-with-desktop-publishing-software-like-aldus-page-maker-including-versions-of-lorem-ipsum-span {
+  color: #ffffff;
+  font-family: "Pacifico-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  text-transform: lowercase;
+}
+.what-is-lorem-ipsum-lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industry-s-standard-dummy-text-ever-since-the-1500-s-when-an-unknown-printer-took-a-galley-of-type-and-scrambled-it-to-make-a-type-specimen-book-it-has-survived-not-only-five-centuries-but-also-the-leap-into-electronic-typesetting-remaining-essentially-unchanged-it-was-popularised-in-the-1960-s-with-the-release-of-letraset-sheets-containing-lorem-ipsum-passages-and-more-recently-with-desktop-publishing-software-like-aldus-page-maker-including-versions-of-lorem-ipsum-span2 {
+  color: #ffffff;
+  font-family: "InriaSans-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  text-transform: lowercase;
+}
+.frame-484 {
+  padding: 0px 70px 0px 70px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-482 {
+  display: flex;
+  flex-direction: column;
+  gap: 110px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1181px;
+  position: relative;
+}
+.frame-478 {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.description {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 35px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.dive-into-the-world-of-web-development-with-our-comprehensive-full-stack-development-workshop-this-hands-on-workshop-is-designed-to-take-you-from-foundational-concepts-to-advanced-techniques-empowering-you-to-build-dynamic-and-responsive-web-applications-from-scratch-whether-you-re-a-beginner-looking-to-start-your-coding-journey-or-an-aspiring-developer-aiming-to-upskill-this-workshop-is-the-perfect-opportunity-to-boost-your-expertise-in-full-stack-development {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+}
+.frame-479 {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.what-you-ll-learn {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 35px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.front-end-development-build-user-friendly-interfaces-using-html-css-and-java-script-explore-modern-frameworks-like-react-js-to-create-interactive-web-pages-back-end-development-set-up-robust-server-side-applications-with-node-js-master-api-development-with-express-js-database-management-learn-to-store-and-manage-data-effectively-with-mongo-db-understand-database-design-and-integration-deployment-tools-deploy-your-applications-using-platforms-like-heroku-or-netlify-leverage-tools-like-git-and-git-hub-for-version-control-and-collaboration {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+}
+.front-end-development-build-user-friendly-interfaces-using-html-css-and-java-script-explore-modern-frameworks-like-react-js-to-create-interactive-web-pages-back-end-development-set-up-robust-server-side-applications-with-node-js-master-api-development-with-express-js-database-management-learn-to-store-and-manage-data-effectively-with-mongo-db-understand-database-design-and-integration-deployment-tools-deploy-your-applications-using-platforms-like-heroku-or-netlify-leverage-tools-like-git-and-git-hub-for-version-control-and-collaboration-span {
+  color: #000000;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.front-end-development-build-user-friendly-interfaces-using-html-css-and-java-script-explore-modern-frameworks-like-react-js-to-create-interactive-web-pages-back-end-development-set-up-robust-server-side-applications-with-node-js-master-api-development-with-express-js-database-management-learn-to-store-and-manage-data-effectively-with-mongo-db-understand-database-design-and-integration-deployment-tools-deploy-your-applications-using-platforms-like-heroku-or-netlify-leverage-tools-like-git-and-git-hub-for-version-control-and-collaboration-span2 {
+  color: #000000;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.front-end-development-build-user-friendly-interfaces-using-html-css-and-java-script-explore-modern-frameworks-like-react-js-to-create-interactive-web-pages-back-end-development-set-up-robust-server-side-applications-with-node-js-master-api-development-with-express-js-database-management-learn-to-store-and-manage-data-effectively-with-mongo-db-understand-database-design-and-integration-deployment-tools-deploy-your-applications-using-platforms-like-heroku-or-netlify-leverage-tools-like-git-and-git-hub-for-version-control-and-collaboration-span3 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.front-end-development-build-user-friendly-interfaces-using-html-css-and-java-script-explore-modern-frameworks-like-react-js-to-create-interactive-web-pages-back-end-development-set-up-robust-server-side-applications-with-node-js-master-api-development-with-express-js-database-management-learn-to-store-and-manage-data-effectively-with-mongo-db-understand-database-design-and-integration-deployment-tools-deploy-your-applications-using-platforms-like-heroku-or-netlify-leverage-tools-like-git-and-git-hub-for-version-control-and-collaboration-span4 {
+  color: #000000;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.front-end-development-build-user-friendly-interfaces-using-html-css-and-java-script-explore-modern-frameworks-like-react-js-to-create-interactive-web-pages-back-end-development-set-up-robust-server-side-applications-with-node-js-master-api-development-with-express-js-database-management-learn-to-store-and-manage-data-effectively-with-mongo-db-understand-database-design-and-integration-deployment-tools-deploy-your-applications-using-platforms-like-heroku-or-netlify-leverage-tools-like-git-and-git-hub-for-version-control-and-collaboration-span5 {
+  color: #000000;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.front-end-development-build-user-friendly-interfaces-using-html-css-and-java-script-explore-modern-frameworks-like-react-js-to-create-interactive-web-pages-back-end-development-set-up-robust-server-side-applications-with-node-js-master-api-development-with-express-js-database-management-learn-to-store-and-manage-data-effectively-with-mongo-db-understand-database-design-and-integration-deployment-tools-deploy-your-applications-using-platforms-like-heroku-or-netlify-leverage-tools-like-git-and-git-hub-for-version-control-and-collaboration-span6 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.front-end-development-build-user-friendly-interfaces-using-html-css-and-java-script-explore-modern-frameworks-like-react-js-to-create-interactive-web-pages-back-end-development-set-up-robust-server-side-applications-with-node-js-master-api-development-with-express-js-database-management-learn-to-store-and-manage-data-effectively-with-mongo-db-understand-database-design-and-integration-deployment-tools-deploy-your-applications-using-platforms-like-heroku-or-netlify-leverage-tools-like-git-and-git-hub-for-version-control-and-collaboration-span7 {
+  color: #000000;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.front-end-development-build-user-friendly-interfaces-using-html-css-and-java-script-explore-modern-frameworks-like-react-js-to-create-interactive-web-pages-back-end-development-set-up-robust-server-side-applications-with-node-js-master-api-development-with-express-js-database-management-learn-to-store-and-manage-data-effectively-with-mongo-db-understand-database-design-and-integration-deployment-tools-deploy-your-applications-using-platforms-like-heroku-or-netlify-leverage-tools-like-git-and-git-hub-for-version-control-and-collaboration-span8 {
+  color: #000000;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.front-end-development-build-user-friendly-interfaces-using-html-css-and-java-script-explore-modern-frameworks-like-react-js-to-create-interactive-web-pages-back-end-development-set-up-robust-server-side-applications-with-node-js-master-api-development-with-express-js-database-management-learn-to-store-and-manage-data-effectively-with-mongo-db-understand-database-design-and-integration-deployment-tools-deploy-your-applications-using-platforms-like-heroku-or-netlify-leverage-tools-like-git-and-git-hub-for-version-control-and-collaboration-span9 {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.front-end-development-build-user-friendly-interfaces-using-html-css-and-java-script-explore-modern-frameworks-like-react-js-to-create-interactive-web-pages-back-end-development-set-up-robust-server-side-applications-with-node-js-master-api-development-with-express-js-database-management-learn-to-store-and-manage-data-effectively-with-mongo-db-understand-database-design-and-integration-deployment-tools-deploy-your-applications-using-platforms-like-heroku-or-netlify-leverage-tools-like-git-and-git-hub-for-version-control-and-collaboration-span10 {
+  color: #000000;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.front-end-development-build-user-friendly-interfaces-using-html-css-and-java-script-explore-modern-frameworks-like-react-js-to-create-interactive-web-pages-back-end-development-set-up-robust-server-side-applications-with-node-js-master-api-development-with-express-js-database-management-learn-to-store-and-manage-data-effectively-with-mongo-db-understand-database-design-and-integration-deployment-tools-deploy-your-applications-using-platforms-like-heroku-or-netlify-leverage-tools-like-git-and-git-hub-for-version-control-and-collaboration-span11 {
+  color: #000000;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.frame-480 {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.workshop-highlights {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 35px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.expert-led-sessions-with-industry-professionals-interactive-coding-challenges-and-real-world-project-building-hands-on-practice-with-guided-coding-labs-networking-opportunities-with-peers-and-mentors-certificate-of-completion-to-boost-your-resume {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+}
+.frame-481 {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.why-join {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 35px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.this-workshop-provides-the-perfect-mix-of-theoretical-knowledge-and-practical-experience-ensuring-that-you-leave-with-a-strong-foundation-in-full-stack-development-and-a-portfolio-ready-project-to-showcase-your-skills {
+  color: #000000;
+  text-align: justified;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+}
+.don-t-miss-this-opportunity-to-kickstart-your-journey-in-web-development-register-now-and-take-the-first-step-toward-becoming-a-full-stack-developer {
+  color: #000000;
+  text-align: justified;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+}
+.don-t-miss-this-opportunity-to-kickstart-your-journey-in-web-development-register-now-and-take-the-first-step-toward-becoming-a-full-stack-developer-span {
+  color: #000000;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.don-t-miss-this-opportunity-to-kickstart-your-journey-in-web-development-register-now-and-take-the-first-step-toward-becoming-a-full-stack-developer-span2 {
+  color: #000000;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.frame-350 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 1096.52px;
+  position: relative;
+}
+.frame-387 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.frame-351 {
+  height: 703.52px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+  overflow: hidden;
+}
+.image-52 {
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  bottom: 495px;
+  top: -560px;
+  object-fit: cover;
+}
+.frame-388 {
+  background: #1a1a1a;
+  padding: 60px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.frame-334 {
+  display: flex;
+  flex-direction: column;
+  gap: 55px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 298px;
+  position: relative;
+}
+.events {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 26px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.join-us-for-exciting-ite-events-at-rupp {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-325 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.vector {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.vector2 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.vector3 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.group2 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+._2024-all-rights-reserved {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-339 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 88px;
+  position: relative;
+}
+.frame-338 {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 229px;
+  position: relative;
+}
+.about-us {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-335 {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.our-project {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.team {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.event-of-ite {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-337 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 350px;
+  position: relative;
+}
+.support {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-332 {
+  padding: 10px 0px 10px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.contact-us {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-349 {
+  background: rgba(0, 0, 0, 0.33);
+  padding: 10px 60px 10px 60px;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  align-items: center;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  bottom: 392.52px;
+  top: 0px;
+}
+.frame-356 {
+  display: flex;
+  flex-direction: row;
+  gap: 310px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-345 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 96px;
+  position: relative;
+  overflow: hidden;
+}
+.div {
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.div-span {
+  color: #ffffff;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.div-span2 {
+  color: #000000;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.yap {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-346 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-50 {
+  border-radius: 53px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 0.5px;
+  flex-shrink: 0;
+  width: 50px;
+  height: 50px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-348 {
+  padding: 0px 10px 0px 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.thukuna {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Metal-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-3462 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 96px;
+  position: relative;
+  overflow: hidden;
+}
+.div2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-3482 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 96px;
+  position: relative;
+  overflow: hidden;
+}
+.div-span3 {
+  color: #ffffff;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.div-span4 {
+  color: #000000;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+}
+.frame-347 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 96px;
+  position: relative;
+  overflow: hidden;
+}
+.component-4 {
+  flex-shrink: 0;
+  width: 300px;
+  height: 146px;
+  position: relative;
+}
+.frame-352 {
+  background: #0074ff;
+  border-radius: 50px;
+  padding: 5px 20px 5px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 46%;
+  height: 27.4%;
+  position: absolute;
+  right: 27%;
+  left: 27%;
+  bottom: 72.6%;
+  top: 0%;
+}
+.feedback {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-354 {
+  opacity: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  top: calc(50% - 151.5px);
+}
+.star {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 85px;
+  height: 17px;
+  position: relative;
+}
+.frame-377 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 17px;
+  height: 17px;
+  position: relative;
+  overflow: visible;
+}
+.frame-379 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 17px;
+  height: 17px;
+  position: relative;
+  overflow: visible;
+}
+.frame-376 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 17px;
+  height: 17px;
+  position: relative;
+  overflow: visible;
+}
+.frame-378 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 17px;
+  height: 17px;
+  position: relative;
+  overflow: visible;
+}
+.frame-375 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 17px;
+  height: 17px;
+  position: relative;
+  overflow: visible;
+}
+.inputfield {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.background {
+  background: #ffffff;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #aaaaaa;
+  border-width: 1px;
+  flex-shrink: 0;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.focus {
+  background: #ffffff;
+  border-radius: 4px;
+  border-style: solid;
+  border-color: #0e7afe;
+  border-width: 1px;
+  flex-shrink: 0;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.textfield {
+  padding: 8px 16px 8px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.text {
+  color: var(--i9588679193800-placeholdercolor, #303030);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: relative;
+  min-width: 5px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.animated-cursor {
+  align-self: stretch;
+  flex-shrink: 0;
+  width: 1px;
+  position: relative;
+}
+.rectangle {
+  background: #ffffff;
+  border-radius: 100px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.frame-353 {
+  background: #0074ff;
+  border-radius: 50px;
+  padding: 5px 20px 5px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.submit {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.frame-486 {
+  background: #ffffff;
+  padding: 0px 50px 0px 50px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-83 {
+  flex-shrink: 0;
+  height: 60px;
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.frame-487 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-4862 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 110px;
+  position: relative;
+}
+.logo-2 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 45px;
+  position: relative;
+  object-fit: cover;
+}
+.group-5 {
+  margin: 0 0 0 -12px;
+  flex-shrink: 0;
+  width: 243px;
+  height: 60px;
+  position: static;
+}
+.event-of-ite2 {
+  color: var(--color-grey-6, #101010);
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 98px;
+  top: 0px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-17 {
+  display: flex;
+  flex-direction: row;
+  gap: 100px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-13 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-11 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.home {
+  color: var(--color-grey-6, #101010);
+  text-align: left;
+  font-family: "InriaSans-Regular", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-2 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 91px;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.frame-15 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-22 {
+  opacity: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.frame-16 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-23 {
+  opacity: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 91px;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.frame-475 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-474 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0;
+  height: 42px;
+  position: relative;
+}
+.frame-14 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 102px;
+  height: 2px;
+  position: relative;
+}
+.frame-24 {
+  opacity: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 91px;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+
+.frame-487 {
+  width: 600px;
+}
+
+.home {
+  width: 100px;
+}
