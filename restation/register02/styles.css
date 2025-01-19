@@ -1,0 +1,153 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Metal&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  font-size: 25px;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #0062d8;
+  color: #ffffff;
+  overflow: hidden;
+}
+
+
+* {
+  box-sizing: border-box;
+  border: none;
+  outline: none;
+}
+
+p {
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}
+body h1 {
+  font-family: "Metal", serif;
+  font-size: 36px;
+  margin-bottom: 20px;
+  position: relative;
+  transform: translateX(-550px);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 60px;
+  width: 90%;
+  max-width: 1200px;
+}
+
+.left {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  gap: 20px;
+  min-width: 700px;
+  margin-left: 30px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+form .input {
+  color: #ffffff;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ffffff;
+  width: 100%;
+  text-align: center;
+  background-color: #0062d8;
+}
+
+.name-gender {
+  display: inline;
+}
+
+form .name_input {
+  color: #ffffff;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ffffff;
+  width: 60%;
+  text-align: center;
+  background-color: #0062d8;
+}
+
+.gender {
+  position: relative;
+  font-size: 16px;
+
+  cursor: pointer;
+}
+
+#gender-label {
+  display: inline-block;
+  margin: 0;
+  color: #ffffff;
+}
+
+#gender-options {
+  position: absolute;
+  top: 25px;
+  left: 0;
+  gap: 10px;
+}
+
+#gender-options button {
+  background-color: #0062d8;
+  color: #ffffff;
+  font-size: 14px;
+
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+}
+
+.submit-text {
+  font-size: 14px;
+  font-weight: bold;
+  text-align: left;
+}
+
+button {
+  background-color: #ffffff;
+  color: #0062d8;
+  padding: 10px 20px;
+  font-size: 30px;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #f0f0f0;
+}
+
+.right {
+  height: 700px;
+  min-width: 600px; 
+  margin-left: 30px;
+}
+
+.right img {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    object-fit: cover;
+}  
